@@ -1,2 +1,2 @@
 # PicResource
-# https://cdn.jsdelivr.net/gh/brumalStar/picResource/images
+https://cdn.jsdelivr.net/gh/brumalStar/picResource/images
